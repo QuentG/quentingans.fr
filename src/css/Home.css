@@ -1,0 +1,18 @@
+.homepage{
+    max-width: 900px;
+    margin: 100px auto;
+}
+
+.homepage p{
+    margin-bottom: 70px;
+}
+
+.homepage h1{
+    font-size: 3.3em;
+}
+
+.profil img{
+    margin-right: 100px;
+    width: 300px;
+    border-radius: 50%;
+}
