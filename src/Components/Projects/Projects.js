@@ -15,9 +15,9 @@ class Projects extends Component {
       return(
           <div className="row d-flex">
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >E-Commerce-Vg</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >E-Commerce-Vg</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/E-Commerce-Vg" target="_blank">GitHub</Button>
@@ -25,9 +25,9 @@ class Projects extends Component {
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Flocasia</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Flocasia</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Flocasia" target="_blank">GitHub</Button>
@@ -36,9 +36,9 @@ class Projects extends Component {
 
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Httpstatus</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Httpstatus</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Httpstatus" target="_blank">GitHub</Button>
@@ -50,9 +50,9 @@ class Projects extends Component {
         return (
           <div className="row d-flex">
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} > Sylab</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} > Sylab</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Sylab" target="_blank">GitHub</Button>
@@ -60,9 +60,9 @@ class Projects extends Component {
             </Card>
   
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >LaboSymfony</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >LaboSymfony</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/LaboSymfony" target="_blank">GitHub</Button>
@@ -74,9 +74,9 @@ class Projects extends Component {
       return (
         <div className="row d-flex">
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Ask-me-something</CardTitle>
+            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Ask-me-something</CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
             </CardText>
             <CardActions border>
               <Button colored href="https://github.com/QuentG/NodeJS_Project" target="_blank">GitHub</Button>
@@ -84,9 +84,9 @@ class Projects extends Component {
           </Card>
 
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Todolist</CardTitle>
+            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Todolist</CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
             </CardText>
             <CardActions border>
               <Button colored href="https://github.com/ArnaudDauguen/NodeJs-TodoList" target="_blank">GitHub</Button>
@@ -98,9 +98,9 @@ class Projects extends Component {
         return (
             <div className="row d-flex">
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                    <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Blogger</CardTitle>
+                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Blogger</CardTitle>
                     <CardText>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
                     </CardText>
                     <CardActions border>
                     <Button colored href="https://github.com/QuentG/Blogger" target="_blank">GitHub</Button>
@@ -108,9 +108,9 @@ class Projects extends Component {
                 </Card>
 
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                    <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >quentingans.fr</CardTitle>
+                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >quentingans.fr</CardTitle>
                     <CardText>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
                     </CardText>
                     <CardActions border>
                     <Button colored href="https://github.com/QuentG/quentingans.fr" target="_blank">GitHub</Button>
