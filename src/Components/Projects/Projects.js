@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, } from 'react-mdl';
+import React, { Component } from 'react'
+import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, } from 'react-mdl'
 
 class Projects extends Component {
   constructor(props) {
@@ -15,9 +15,12 @@ class Projects extends Component {
       return(
           <div className="row d-flex">
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >E-Commerce-Vg</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url() center / cover'}} >E-Commerce-Vg</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                Description : Projet scolaire qui a permis de mettre en pratique les différentes technologies web apprissent au cours de ma première année.
+                <br />
+                <br />
+                Technos utilisés : HTML, CSS, Bootstrap, JS, PHP, MySql.
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/E-Commerce-Vg" target="_blank">GitHub</Button>
@@ -25,9 +28,12 @@ class Projects extends Component {
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Flocasia</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url() center / cover'}} >Flocasia</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                Description : Réalisation d'un site pour le projet de jeu vidéo Flocasia, avec l'intégration d'un forum réalisé avec PHP et Mysql.
+                <br />
+                <br />
+                Technos utilisés : HTML, CSS, BOOTSTRAP, PHP, Mysql.
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Flocasia" target="_blank">GitHub</Button>
@@ -36,9 +42,12 @@ class Projects extends Component {
 
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Httpstatus</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url() center / cover'}} >Httpstatus</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                Description : Site de monitoring de sites web, avec une mise a jour automatique du statut des sites + conservation de l'historique.
+                <br />
+                <br />
+                Technos utilisés : HTML, CSS, BOOTSTRAP, PHP, MariaDB, Supervisor.
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Httpstatus" target="_blank">GitHub</Button>
@@ -50,9 +59,12 @@ class Projects extends Component {
         return (
           <div className="row d-flex">
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} > Sylab</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://cdn-images-1.medium.com/max/1600/1*nR9AG7V-YPWFd7A6GYRtEQ.png) center / cover'}} > Sylab</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                Description : 
+                <br />
+                <br />
+                Technos utilisés : HTML, CSS, Bootstrap, JQuery, PHP, Symfony 4.
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/Sylab" target="_blank">GitHub</Button>
@@ -60,9 +72,12 @@ class Projects extends Component {
             </Card>
   
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >LaboSymfony</CardTitle>
+              <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://cdn-images-1.medium.com/max/1600/1*nR9AG7V-YPWFd7A6GYRtEQ.png) center / cover'}} >LaboSymfony</CardTitle>
               <CardText>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                Description : Projet de découverte du framework Symfony, sur la denière version actuelle de Symfony 4. 
+                <br />
+                <br />
+                Technos utilisés : HTML, Bootstrap, PHP, Symfony 4.
               </CardText>
               <CardActions border>
                 <Button colored href="https://github.com/QuentG/LaboSymfony" target="_blank">GitHub</Button>
@@ -74,9 +89,12 @@ class Projects extends Component {
       return (
         <div className="row d-flex">
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Ask-me-something</CardTitle>
+            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://static.webpunks.co/uploads/2016/08/nodejs-modules-webentwicklung-webdevelopment-webpunks.jpg) center / cover'}} >Ask-me-something</CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+              Description : Réalisation d'un quizz en CLI (Command Line Interface) qui récupére les questions/réponses depuis une Api.
+              <br />
+              <br />
+              Technos utilisés : JS, NodeJS, API, Sqlite3.
             </CardText>
             <CardActions border>
               <Button colored href="https://github.com/QuentG/NodeJS_Project" target="_blank">GitHub</Button>
@@ -84,9 +102,12 @@ class Projects extends Component {
           </Card>
 
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Todolist</CardTitle>
+            <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://static.webpunks.co/uploads/2016/08/nodejs-modules-webentwicklung-webdevelopment-webpunks.jpg) center / cover'}} >Todolist</CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+              Description : Réalisation d'une todolist sous forme d'Api en utilisant le framework express.
+              <br />
+              <br />
+              Technos utilisés : JS, NodeJS, ExpressJS, Handlebars, Sqlite3.
             </CardText>
             <CardActions border>
               <Button colored href="https://github.com/ArnaudDauguen/NodeJs-TodoList" target="_blank">GitHub</Button>
@@ -98,9 +119,12 @@ class Projects extends Component {
         return (
             <div className="row d-flex">
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >Blogger</CardTitle>
+                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/4445319/original/58b332866815381e7c758143f8bc8ece0de96edd/create-reusable-react-js-components.png) center / cover'}} >Blogger</CardTitle>
                     <CardText>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                      Decription : Réalisation d'un blog pour découvrire le framework ReactJS.
+                      <br/>
+                      <br/>
+                      Technos utilisés : HTML, CSS, ReactJS, API.
                     </CardText>
                     <CardActions border>
                     <Button colored href="https://github.com/QuentG/Blogger" target="_blank">GitHub</Button>
@@ -108,9 +132,12 @@ class Projects extends Component {
                 </Card>
 
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} >quentingans.fr</CardTitle>
+                    <CardTitle style={{color: '#fff', height: '180px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/4445319/original/58b332866815381e7c758143f8bc8ece0de96edd/create-reusable-react-js-components.png) center / cover'}} >quentingans.fr</CardTitle>
                     <CardText>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+                      Decription : Mon site vitrine développé avec le framework ReactJS.
+                      <br/>
+                      <br/>
+                      Technos utilisés : HTML, CSS, Bootstrap, ReactJS, Firebase.
                     </CardText>
                     <CardActions border>
                     <Button colored href="https://github.com/QuentG/quentingans.fr" target="_blank">GitHub</Button>
